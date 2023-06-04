@@ -39,32 +39,24 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+User Authentication
+![Screenshot-7](https://github.com/aman-shown7008/Geniobits-Private-Limited-Assignment-/assets/74037648/643105ad-ac2a-4d55-a69c-66f0c3ed34f7)
+![Screenshot-8](https://github.com/aman-shown7008/Geniobits-Private-Limited-Assignment-/assets/74037648/9707515f-d9b0-4fb9-830b-2a9561562505)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Home page
+![Screenshot-1](https://github.com/aman-shown7008/Geniobits-Private-Limited-Assignment-/assets/74037648/d661e5e5-7d82-4205-a66a-3bec1cf83dfa)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Property Details
+![Screenshot-2](https://github.com/aman-shown7008/Geniobits-Private-Limited-Assignment-/assets/74037648/2bdf0e34-5967-402e-afcf-e7e01b787627)
 
-### Code Splitting
+Contact Agent
+![Screenshot-3](https://github.com/aman-shown7008/Geniobits-Private-Limited-Assignment-/assets/74037648/f908c61f-968a-4f9e-ac8f-954f615d075e)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Property Listings
+![Screenshot-4](https://github.com/aman-shown7008/Geniobits-Private-Limited-Assignment-/assets/74037648/c6921243-bd00-4a12-b9dd-ab5658ec7bf9)
 
-### Analyzing the Bundle Size
+User Dashboard
+![Screenshot-5](https://github.com/aman-shown7008/Geniobits-Private-Limited-Assignment-/assets/74037648/f9340a01-471e-4265-b5d8-7de499853787)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
